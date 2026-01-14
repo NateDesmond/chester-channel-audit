@@ -1,0 +1,49 @@
+{
+  "carl-alex": [],
+  "tafishing": [
+    {
+      "thumbnail": "https://i.ytimg.com/vi/OvKH5mMWWRE/hqdefault.jpg",
+      "title": "Dangers of Fishing - Can happen to Anyone!",
+      "views": "Unknown",
+      "videoId": "OvKH5mMWWRE",
+      "localPath": "assets/competitors/tafishing-1.jpg"
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/uQAX97sfmMg/hqdefault.jpg",
+      "title": "ALONE - Beach Fishing at Night (My most successful beach rig yet)",
+      "views": "Unknown",
+      "videoId": "uQAX97sfmMg",
+      "localPath": "assets/competitors/tafishing-2.jpg"
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/zfwDAUwoHu4/hqdefault.jpg",
+      "title": "DEEP WATER Sea Fishing gets the Fish!",
+      "views": "Unknown",
+      "videoId": "zfwDAUwoHu4",
+      "localPath": "assets/competitors/tafishing-3.jpg"
+    }
+  ],
+  "fishing-tutorials": [
+    {
+      "thumbnail": "https://i.ytimg.com/vi/IiqGQgoZY84/hqdefault.jpg",
+      "title": "Start Big Carp Fishing - The Easy Way!",
+      "views": "Unknown",
+      "videoId": "IiqGQgoZY84",
+      "localPath": "assets/competitors/fishing-tutorials-1.jpg"
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/jQgVrdCJPgs/hqdefault.jpg",
+      "title": "How to Cast with 100% Accuracy! (line clip and distance sticks)",
+      "views": "Unknown",
+      "videoId": "jQgVrdCJPgs",
+      "localPath": "assets/competitors/fishing-tutorials-2.jpg"
+    },
+    {
+      "thumbnail": "https://i.ytimg.com/vi/CQPVjnERXF0/hqdefault.jpg",
+      "title": "How To Start Specimen Carp Fishing - Full Guide!",
+      "views": "Unknown",
+      "videoId": "CQPVjnERXF0",
+      "localPath": "assets/competitors/fishing-tutorials-3.jpg"
+    }
+  ]
+}
